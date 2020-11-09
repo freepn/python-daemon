@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/freepn/python-daemon/workflows/Python%20package/badge.svg)
+![GitHub CI Workflow Status](https://img.shields.io/github/workflow/status/freepn/python-daemon/ci)
 
 Python daemonizer class
 ====================
