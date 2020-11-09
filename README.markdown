@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/freepn/python-daemon/workflows/.github/workflows/python-package.yml/badge.svg)
+[![Build Status](https://github.com/freepn/python-daemon/workflows/Python%20package/badge.svg)
 
 Python daemonizer class
 ====================
