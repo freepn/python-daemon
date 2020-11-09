@@ -10,7 +10,7 @@ Based on [this original version from jejik.com](http://www.jejik.com/articles/20
 Usage
 ---------------------
 
-Define a class which inherits from `Daemon` and has a `run()` method (which is what will be called once the daemonization is completed.
+Define a class which inherits from `Daemon` and has a `run()` method (which is what will be called once the daemonization is completed).
 
 	from daemon import Daemon
 	
@@ -29,6 +29,7 @@ Actions
 * `start()` - starts the daemon (creates PID and daemonizes).
 * `stop()` - stops the daemon (stops the child process and removes the PID).
 * `restart()` - does `stop()` then `start()`.
+* `start()` - returns deamon status (True if running)
 
 Foreground
 ---------------------
