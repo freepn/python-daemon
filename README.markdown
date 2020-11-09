@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/freepn/python-daemon.svg?branch=master)](https://travis-ci.org/freepn/python-daemon)
+[![Build Status](https://github.com/freepn/python-daemon/workflows/.github/workflows/python-package.yml/badge.svg)
 
 Python daemonizer class
 ====================
